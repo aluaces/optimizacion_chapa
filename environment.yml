@@ -1,3 +1,5 @@
 name: control-environment
 dependencies:
   - sympy
+  - matplotlib
+  
